@@ -8,10 +8,10 @@
 ## Descrição
 
 Este projeto implementa uma aplicação para a fabricante de carros elétricos BiUAIDi, que visa identificar as estações de recarga mais próximas de uma posição geográfica fornecida, utilizando estruturas de dados eficientes para realizar consultas, ativações e desativações de estações.
-[Enunciado Completo]()
+[Enunciado Completo](./Enunciado.pdf)
 
 ### Funcionalidades do Sistema
-[Relatorio Inicial]()
+[Relatorio Inicial](./Flexibilizacao+Quadtree/RelatorioInicial.pdf)
 
 1. **Flexibilização do aplicativo**: O aplicativo foi modificado para trabalhar com um conjunto dinâmico de estações de recarga. O sistema agora suporta a ativação e desativação de estações e realiza consultas a partir de arquivos de entrada.
    
@@ -20,7 +20,7 @@ Este projeto implementa uma aplicação para a fabricante de carros elétricos B
 3. **Avaliação Experimental**: A implementação foi avaliada comparativamente com a versão anterior baseada em vetor, medindo o desempenho em termos de tempo de execução e localidade de referência, incluindo consultas e atualizações de estações.
 
 ### Extensões Implementadas
-[Relatorio Adicional]()
+[Relatorio Adicional](./ExtensaoSMV/RelatorioSMV.pdf)
 
 4. **Arquitetura de Dois Níveis**: A aplicação foi estendida para funcionar em uma arquitetura de dois níveis, simulando um ambiente com memória limitada, replicando dados conforme necessário e implementando uma política de substituição de páginas.
 
