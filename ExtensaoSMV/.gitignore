@@ -1,0 +1,6 @@
+# Ignore all files in the /tests/ and /obj/ directories
+/tests/*
+/obj/*
+
+# Ignore SMV swap files
+smvswap.*
